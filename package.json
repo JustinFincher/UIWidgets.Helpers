@@ -1,0 +1,15 @@
+{
+  "name": "com.justzht.uiwidgets.helper",
+  "displayName": "UIWidgets Helpers",
+  "version": "0.0.1-preview",
+  "unity": "2018.3",
+  "description": "Some helper methods for using UIWidgets",
+  "keywords": [
+    "unity",
+    "uiwidgets",
+    "flutter"
+  ],
+  "dependencies": {
+    "com.unity.uiwidgets": "https://github.com/UnityTech/UIWidgets.git"
+  }
+}
